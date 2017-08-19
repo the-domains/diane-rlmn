@@ -1,0 +1,34 @@
+typography_spectrum: 0.6741984160616994
+color:
+  lightness: 0.54676928570186
+  brandColors:
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
+  saturation: 0.6367283725730908
+  brandStrength: 0.37832909551875876
+  rhythmicContrast: 0.2193597357765212
+layout_spectrum: 0.43192812777124345
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/bfad84d4-3425-4f1d-8a6e-8fe964e39cff.png
+name: Diane
+url: 'http://db.kbf.am'
+navigation:
+  - name: We’re the real deal
+    id: 1e7510c0-9457-4f5e-8780-5d7e90867d4e
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3c19527-7e4b-4e7c-94fb-a90a23555183.png
+title: Diane Burstein
+content: []
+description: db/official
+purpose:
+  - type: external
+    url: 'http://luke.kosnerburstein.com'
+    label: Luke
+  - type: external
+    url: 'http://kosnerburstein.com'
+    label: Kosner Burstein
+github: true
