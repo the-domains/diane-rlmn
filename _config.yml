@@ -27,7 +27,7 @@ description: db/official
 purpose:
   - type: external
     url: 'http://lk.kbf.am'
-    label: Luke
+    label: 'http://lk.kbf.am'
   - type: external
     url: 'http://kosnerburstein.com'
     label: Kosner Burstein
